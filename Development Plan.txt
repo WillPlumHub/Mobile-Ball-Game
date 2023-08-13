@@ -1,4 +1,4 @@
-Development Plan:
+Development Plan (ongoing):
 Slow down code - to familiarize myself with unity's touch input and remind myself how rigidbody functions work
 	get hold input
 	set drag

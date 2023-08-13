@@ -1,0 +1,34 @@
+{
+    "name": "hold",
+    "maps": [
+        {
+            "name": "Hold",
+            "id": "96243c01-7f09-4aab-bd8b-0492f69a5113",
+            "actions": [
+                {
+                    "name": "Hold",
+                    "type": "Button",
+                    "id": "480260d1-e7c1-40fc-a4ff-04667518f3c1",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9b2cf360-d56b-4b56-b1d7-cfd64b6631aa",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "Hold",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Hold",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
