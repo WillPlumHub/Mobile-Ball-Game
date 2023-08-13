@@ -1,0 +1,28 @@
+Development Plan:
+Slow down code - to familiarize myself with unity's touch input and remind myself how rigidbody functions work
+	get hold input
+	set drag
+	gradually increase drag
+	drag = 0 on input release
+
+Setup mobile testing on my android
+
+Swipe code - now that I understand touch input, I can get more complex with registering the direction of a swipe
+	register a swipe input
+	register direction of swipe vector
+	apply force to gameobject
+	apply aformentioned force in direction of swipe vector
+
+Setup test environment
+	setup walls/floors/floating circle
+	setup environment collisions
+	setup gameobject's collisions
+	setup ball collision reactions - make it bouncy and ricochet off walls correctly
+		detect when ball collides with environment
+		??? not sure yet
+
+Swipe limit code - add in "energy" that you gain for each ricochet and use for each swipe
+	setup "energy" int
+	reduce energy per swipe
+	increase energy per ricochet
+	require >= 1 energy to swipe
