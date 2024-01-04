@@ -19,10 +19,10 @@ Setup test environment
 	setup gameobject's collisions
 	setup ball collision reactions - make it bouncy and ricochet off walls correctly
 		detect when ball collides with environment
-		??? not sure yet
 
 Swipe limit code - add in "energy" that you gain for each ricochet and use for each swipe
 	setup "energy" int
 	reduce energy per swipe
 	increase energy per ricochet
 	require >= 1 energy to swipe
+
