@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Wall
+  - Hazzard
+  - HazzardActivate
+  - SplineStart
   layers:
   - Default
   - TransparentFX
@@ -11,7 +15,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Ground
   - 
   - 
   - 
@@ -38,6 +42,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 4108421047
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Gameobjects
+    uniqueID: 4135160579
     locked: 0
