@@ -25,7 +25,7 @@ Swipe limit code - add in "energy" that you gain for each ricochet and use for e
 	reduce energy per swipe
 	increase energy per ricochet
 
-
+--------------------------------------------------------------------------------------------
 
 Add in Combo System:
 	Add in score system that goes up by killing enemies & collecting points
